@@ -1,0 +1,27 @@
+C:\Users\Marcus\source\repos\CD\bin\Debug\netcoreapp3.1\CD.exe
+C:\Users\Marcus\source\repos\CD\bin\Debug\netcoreapp3.1\CD.deps.json
+C:\Users\Marcus\source\repos\CD\bin\Debug\netcoreapp3.1\CD.runtimeconfig.json
+C:\Users\Marcus\source\repos\CD\bin\Debug\netcoreapp3.1\CD.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\CD\bin\Debug\netcoreapp3.1\CD.dll
+C:\Users\Marcus\source\repos\CD\bin\Debug\netcoreapp3.1\CD.pdb
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.dll
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.pdb
+C:\Users\Marcus\source\repos\CD\obj\Debug\netcoreapp3.1\CD.genruntimeconfig.cache
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\bin\Debug\netcoreapp3.1\CD.exe
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\bin\Debug\netcoreapp3.1\CD.deps.json
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\bin\Debug\netcoreapp3.1\CD.runtimeconfig.json
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\bin\Debug\netcoreapp3.1\CD.runtimeconfig.dev.json
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\bin\Debug\netcoreapp3.1\CD.dll
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\bin\Debug\netcoreapp3.1\CD.pdb
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.csproj.AssemblyReference.cache
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.AssemblyInfoInputs.cache
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.AssemblyInfo.cs
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.csproj.CoreCompileInputs.cache
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.dll
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.pdb
+C:\Users\Dumitras\OneDrive\Рабочий стол\sem6\TMPS\Laboratoare\CD\obj\Debug\netcoreapp3.1\CD.genruntimeconfig.cache
